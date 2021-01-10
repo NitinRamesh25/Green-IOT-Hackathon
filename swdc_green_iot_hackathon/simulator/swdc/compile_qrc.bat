@@ -1,0 +1,1 @@
+pyside2-rcc app_resources/qml.qrc -o app_resources/qml_rc.py

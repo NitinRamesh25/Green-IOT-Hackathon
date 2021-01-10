@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>qml/main.qml</file>
+    <file>qml/Partition.qml</file>
+    <file>qml/Swdc.qml</file>
+    <file>qml/QRcode.qml</file>
+</qresource>
+</RCC>
